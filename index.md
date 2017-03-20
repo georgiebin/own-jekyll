@@ -1,9 +1,3 @@
----
-layout: post
-title: "Bloggin Like a Hacker"
-date: 2017-03-20 21:07 +0100
-categories: first
----
 # So this is my first post
 ## Using Jekyll with Github Pages to produce awesome content.
 
